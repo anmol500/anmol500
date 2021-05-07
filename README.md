@@ -1,7 +1,5 @@
 ### Hi there I'm Anmol 👋
 
-<!--
-**anmol500/anmol500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Wallet App which can save not even your card and official document but can automatically get info about your next flights or any concerts and make a virtual ticket for them
 - 🌱 I’m currently learning Swift and SwiftUI
