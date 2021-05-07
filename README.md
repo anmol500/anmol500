@@ -1,7 +1,7 @@
 ### Hi there I'm Anmol 👋
 
 
-- 🔭 I’m currently working on Wallet App which can save not even your card and official document but can automatically get info about your next flights or any concerts and make a       virtual ticket for them
+- 🔭 I’m currently working on Wallet App which can  get info about your next flights or any concerts and make a virtual ticket for them & ofcourse your Cards
 - 🌱 I’m currently learning Swift and SwiftUI
 - 👯 I’m looking to collaborate on Firebase stuffs
 - 🤔 I’m looking for help with Wallet App API documentation
