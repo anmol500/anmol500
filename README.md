@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I love to automate everything
 
 <img src ="https://github-readme-stats.vercel.app/api?username=anmol500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol500&exclude_repo=github-readme-stats,anmol500.github.io">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol500&exclude_repo=github-readme-stats,anmol500.github.io&&show_icons=true&theme=radical)">
