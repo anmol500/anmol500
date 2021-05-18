@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Firebase stuffs
 - 🤔 I’m looking for help with Wallet App API documentation
 - 💬 Ask me about Flutter, Dart, puppeteer
-- 📫 How to reach me: https://www.linkedin.com/in/anmol-pandey-b30aa8138
+- 📫 How to reach me: www.linkedin.com/in/anmol-pandey-dev
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to automate everything
 
