@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to automate everything
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol500&exclude_repo=github-readme-stats,anmol500.github.io&&show_icons=true&theme=radical "> <img src ="https://github-readme-stats.vercel.app/api?username=anmol500&show_icons=true&theme=radical"> 
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol500&exclude_repo=github-readme-stats,anmol500.github.io&&show_icons=true&theme=radical"> <img src ="https://github-readme-stats.vercel.app/api?username=anmol500&show_icons=true&theme=radical"> 
 
