@@ -2,7 +2,7 @@
 
 
 - 🔭 I have started a company Flutterfly Softwares 
-- 🌱 I’m currently learning Peop..
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on automation projects
 - 💬 Ask me about Flutter, Dart, puppeteer
 - 📫 How to reach me: www.linkedin.com/in/anmol-pandey-dev
