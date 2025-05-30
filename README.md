@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on automation projects
 - 💬 Ask me about Flutter, Dart, puppeteer
-- 📫 How to reach me: www.linkedin.com/in/anmol-pandey-dev
+- 📫 How to reach me: www.linkedin.com/in/anmol-pandey20
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to automate everything
 
